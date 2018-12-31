@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bye 2018
+title: 单行文本两端对齐
 ---
 
 # 需求
